@@ -1586,6 +1586,11 @@ html {
   background-color: rgb(249 115 22 / var(--tw-bg-opacity));
 }
 
+.bg-orange-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(251 146 60 / var(--tw-bg-opacity));
+}
+
 .py-6 {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
